@@ -12,6 +12,11 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
 		</thead>
 		<tbody>
 			<tr>
+			  <td>Palindrome Permutation</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Palindrome%20Permutation"><img src="https://d1gug1ng40407.cloudfront.net/uploads/2015/10/tumblr_static_palindrome.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Check Array Formation Through Concatenation</td>
         <td><a href="https://github.com/MAZHARMIK/-Leetcode-January-Challenge-2021/blob/main/Check%20Array%20Formation%20Through%20Concatenation"><img src="https://raw.githubusercontent.com/wiki/ReactiveX/RxJava/images/rx-operators/concat.png" width="400" height="240"></a>
 			  </td>
