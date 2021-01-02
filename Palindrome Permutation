@@ -1,0 +1,45 @@
+/*
+    Since this question is for Prime Members of Leetcode. Hence, I am providing here the question
+    DESCRIPTION:
+    Given a string, determine if a permutation of the string could form a palindrome.
+    Example1
+    Input: s = "code"
+    Output: False
+    Explanation: 
+    No solution
+
+    Example2
+    Input: s = "aab"
+    Output: True
+    Explanation: 
+    "aab" --> "aba"
+
+    Example3
+    Input: s = "carerac"
+    Output: True
+    Explanation: 
+    "carerac" --> "carerac"
+    
+    Leetcode Link : https://leetcode.com/problems/palindrome-permutation/
+    Company Tags  : Uber, Google, Bloomberg
+*/
+
+class Solution {
+public:
+    bool canPermutePalindrome(string &s) {
+        map<char, int> mp;
+        
+        for(char ch:s) {
+            mp[ch]++;
+        }
+        
+        int oddCount = 0;
+        for(auto it:mp) {
+            if(it.second %2 != 0) {
+                oddCount++;
+            }
+        }
+        
+        return oddCount>1?false:true;
+    }
+};
