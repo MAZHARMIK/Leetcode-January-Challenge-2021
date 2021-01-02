@@ -1,0 +1,20 @@
+class Solution {
+public:
+    bool canFormArray(vector<int>& arr, vector<vector<int>>& pieces) {
+        vector<int> index(101, 0);
+        int n = arr.size();
+        for(int i = 0; i<n; i++)
+            index[arr[i]] = i+1;
+        
+        for(vector<int> vec:pieces) {
+            if(index[vec[0]] == 0)
+                return false;
+            
+            for(int i = 1; i<vec.size(); i++) {
+                if(index[vec[i]]-index[vec[i-1]] != 1)
+                    return false;
+            }
+        }
+        return true;
+    }
+};
