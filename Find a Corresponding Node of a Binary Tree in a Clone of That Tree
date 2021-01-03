@@ -1,0 +1,21 @@
+class Solution {
+public:
+    TreeNode* res    = NULL;
+    TreeNode* trgt   = NULL;
+    void find(TreeNode* original, TreeNode* cloned) {
+        if(!original)
+            return;
+        find(original->left, cloned->left);
+        if(original == trgt) {
+            res = cloned;
+            return;
+        }
+        find(original->right, cloned->right);
+    }
+    TreeNode* getTargetCopy(TreeNode* original, TreeNode* cloned, TreeNode* target) {
+        res  = NULL;
+        trgt = target;
+        find(original, cloned);
+        return res;
+    }
+};
