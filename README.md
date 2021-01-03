@@ -26,5 +26,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree"><img src="https://clipground.com/images/clone-clipart-18.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Beautiful Arrangement</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Beautiful%20Arrangement"><img src="https://www.globalsoftwaresupport.com/wp-content/uploads/2019/09/N%C3%A9vtelen-terv-42-min-400x193.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
