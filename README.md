@@ -31,5 +31,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Beautiful%20Arrangement"><img src="https://www.globalsoftwaresupport.com/wp-content/uploads/2019/09/N%C3%A9vtelen-terv-42-min-400x193.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Merge Two Sorted Lists</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Merge%20Two%20Sorted%20Lists(Iterative))"><img src="https://s3-us-west-2.amazonaws.com/ib-assessment-tests/problem_images/singly-ll.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
