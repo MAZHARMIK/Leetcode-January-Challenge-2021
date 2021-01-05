@@ -36,5 +36,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Merge%20Two%20Sorted%20Lists(Iterative))"><img src="https://s3-us-west-2.amazonaws.com/ib-assessment-tests/problem_images/singly-ll.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Remove Duplicates from Sorted List II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II"><img src="https://appdividend.com/wp-content/uploads/2019/07/LinkedList-in-Java.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
