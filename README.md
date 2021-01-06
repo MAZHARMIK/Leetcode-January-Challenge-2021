@@ -41,5 +41,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II"><img src="https://appdividend.com/wp-content/uploads/2019/07/LinkedList-in-Java.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Kth Missing Positive Number</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Kth%20Missing%20Positive%20Number"><img src="https://thumbs.dreamstime.com/b/missing-you-doodle-text-expression-hand-drawn-colorful-cartoon-45566017.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
