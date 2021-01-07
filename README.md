@@ -46,5 +46,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Kth%20Missing%20Positive%20Number"><img src="https://thumbs.dreamstime.com/b/missing-you-doodle-text-expression-hand-drawn-colorful-cartoon-45566017.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Longest Substring Without Repeating Characters</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Longest%20Substring%20Without%20Repeating%20Characters"><img src="https://www.postgresqltutorial.com/wp-content/uploads/2015/09/PostgreSQL-substring-function-example-with-optional-LENGH-parameter.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
