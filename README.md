@@ -52,6 +52,11 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
 			  </td>
 			</tr>
 			<tr>
+			  <td>Find Root of N-Ary Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/N-Ary%20Tree/Find%20Root%20of%20N-Ary%20Tree"><img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/siblings.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Check Array Formation Through Concatenation</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Check%20Array%20Formation%20Through%20Concatenation"><img src="https://www.worldofitech.com/wp-content/uploads/2020/09/C-featured-image-4-300x185.png" width="400" height="240"></a>
 			  </td>
