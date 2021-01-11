@@ -1,0 +1,42 @@
+/*
+    This topic will updated in my interview preparation package soon
+*/
+
+class Solution {
+public:
+    int FT[100002];
+    //Fenwick Tree
+    int getSum(int index) 
+    { 
+        int sum = 0;
+
+        while (index>0) { 
+            sum += FT[index]; 
+            index -= (index & (-index)); 
+        } 
+        return sum; 
+    }
+    
+    void updateBIT(int index) 
+    { 
+        int j = index;
+        while (j <= 100001) { 
+            FT[j] += 1; 
+            j     += (j & (-j)); 
+        } 
+    } 
+    
+    int createSortedArray(vector<int>& instructions) {
+        int n = instructions.size();
+        int result = 0;
+        
+        for(int i = 0; i<n; i++) {
+            int a = getSum(instructions[i]-1);
+            int b = i - getSum(instructions[i]);
+            result += min(a, b);
+            result %= (1000000007);
+            updateBIT(instructions[i]);
+        }
+        return result;
+    }
+};
