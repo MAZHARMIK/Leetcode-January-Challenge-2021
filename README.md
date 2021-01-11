@@ -71,5 +71,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Create%20Sorted%20Array%20through%20Instructions"><img src="https://www.cdn.geeksforgeeks.org/wp-content/uploads/BITSum.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Merge Sorted Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Merge%20Sorted%20Array"><img src="https://1.bp.blogspot.com/-yNVFqlVAwjc/UXc8amCbFPI/AAAAAAAABVk/d1RT89fycBk/s1600/merge+road+sign.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
