@@ -66,5 +66,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Word%20Ladder"><img src="https://cdn.education.com/worksheet-image/485496/easy-word-ladder-building-words.gif" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Create Sorted Array through Instructions</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Create%20Sorted%20Array%20through%20Instructions"><img src="https://www.cdn.geeksforgeeks.org/wp-content/uploads/BITSum.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
