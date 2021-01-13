@@ -81,5 +81,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Add%20Two%20Numbers"><img src="https://3.bp.blogspot.com/-oocFpvhb7T8/WZtFm_TUjoI/AAAAAAAA3Kw/dMpq7Osl6yMUrF2KXu-9X-1Wl1LUE_IvQCLcBGAs/s1600/Fern.Smiths.Classroom.Ideas.Task.Cards.For.Commutative.Property.of.Addition.clipboard.example.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Boats to Save People</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Boats%20to%20Save%20People"><img src="https://www.fg-a.com/boats/captain-high-seas.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
