@@ -86,5 +86,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Boats%20to%20Save%20People"><img src="https://www.fg-a.com/boats/captain-high-seas.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Minimum Operations to Reduce X to Zero</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero"><img src="https://thumbs.dreamstime.com/b/number-0-zero-guy-speech-bubble-17263846.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
