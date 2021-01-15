@@ -91,5 +91,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero"><img src="https://thumbs.dreamstime.com/b/number-0-zero-guy-speech-bubble-17263846.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Get Maximum in Generated Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Get%20Maximum%20in%20Generated%20Array"><img src="https://logos-download.com/wp-content/uploads/2019/01/Maximum_Logo.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
