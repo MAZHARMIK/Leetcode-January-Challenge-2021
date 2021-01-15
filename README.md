@@ -92,6 +92,11 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
 			  </td>
 			</tr>
 			<tr>
+			  <td>Nested List Weight Sum</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Nested%20List%20Weight%20Sum"><img src="https://www.wikihow.com/images/3/32/Create-a-Nested-List-in-HTML-Step-2.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Get Maximum in Generated Array</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Get%20Maximum%20in%20Generated%20Array"><img src="https://logos-download.com/wp-content/uploads/2019/01/Maximum_Logo.png" width="400" height="240"></a>
 			  </td>
