@@ -106,5 +106,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Heap/Kth%20Largest%20Element%20in%20an%20Array"><img src="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_nfwoffkf/def_height/1413/def_width/2699/version/100032/type/2/q/100" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Count Sorted Vowel Strings</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Count%20Sorted%20Vowel%20Strings"><img src="https://s3.amazonaws.com/lewiscountypress-pictures-production/mchp/production/pictures/23687/maxresdefault_original.jpg?1563814086" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
