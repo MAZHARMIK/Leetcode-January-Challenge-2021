@@ -116,5 +116,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Max%20Number%20of%20K-Sum%20Pairs"><img src="https://www.commentwarehouse.com/wp-content/uploads/2017/01/love-we-make-a-perfect-pair-glitter-graphic.gif" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Longest Palindromic Substring</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20Palindromic%20Substring"><img src="https://d1gug1ng40407.cloudfront.net/uploads/2015/10/tumblr_static_palindrome.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
