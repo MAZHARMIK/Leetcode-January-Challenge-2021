@@ -121,5 +121,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20Palindromic%20Substring"><img src="https://d1gug1ng40407.cloudfront.net/uploads/2015/10/tumblr_static_palindrome.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Valid Parentheses</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Valid%20Parentheses"><img src="https://www.fatalerrors.org/images/blog/fdb83b39b0dba60f6d9b62b220de76c3.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
