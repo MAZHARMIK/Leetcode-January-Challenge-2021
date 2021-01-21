@@ -126,5 +126,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Valid%20Parentheses"><img src="https://www.fatalerrors.org/images/blog/fdb83b39b0dba60f6d9b62b220de76c3.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Find the Most Competitive Subsequence</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/42cf5eedfad3c5cd20f1f5557941aa4ce13f7202/Greedy/Find%20the%20Most%20Competitive%20Subsequence"><img src="https://i0.wp.com/www.feedough.com/wp-content/uploads/2019/01/Competitive-Strategies.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
