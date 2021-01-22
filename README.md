@@ -132,6 +132,11 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
 			  </td>
 			</tr>
 			<tr>
+			  <td>One Edit Distance</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/One%20Edit%20Distance"><img src="https://www.ritambhara.in/wp-content/uploads/2016/05/edit_distance.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Determine if Two Strings Are Close</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Determine%20if%20Two%20Strings%20Are%20Close"><img src="https://clipground.com/images/close-friends-clipart-15.jpg" width="400" height="240"></a>
 			  </td>
