@@ -131,5 +131,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/42cf5eedfad3c5cd20f1f5557941aa4ce13f7202/Greedy/Find%20the%20Most%20Competitive%20Subsequence"><img src="https://i0.wp.com/www.feedough.com/wp-content/uploads/2019/01/Competitive-Strategies.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Determine if Two Strings Are Close</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Determine%20if%20Two%20Strings%20Are%20Close"><img src="https://clipground.com/images/close-friends-clipart-15.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
