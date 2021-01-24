@@ -141,5 +141,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Determine%20if%20Two%20Strings%20Are%20Close"><img src="https://clipground.com/images/close-friends-clipart-15.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Sort the Matrix Diagonally</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Sort%20the%20Matrix%20Diagonally"><img src="https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2019/06/Pass1.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
