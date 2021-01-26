@@ -146,5 +146,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Sort%20the%20Matrix%20Diagonally"><img src="https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2019/06/Pass1.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Check If All 1's Are at Least Length K Places Away</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away"><img src="https://i.ytimg.com/vi/Xpk67YzOn5w/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
