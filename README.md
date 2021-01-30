@@ -151,5 +151,30 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/januar
         <td><a href="https://github.com/MAZHARMIK/Leetcode-January-Challenge-2021/blob/main/Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away"><img src="https://i.ytimg.com/vi/Xpk67YzOn5w/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Path With Minimum Effort</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Path With Minimum Effort"><img src="https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/search-in-a-2d-matrix-banner-2b43c8c857579661.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Concatenation of Consecutive Binary Numbers</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/768d6d2dfd89c73c2e3477d78f8ed5866b197aaa/Bit_Magic/Concatenation%20of%20Consecutive%20Binary%20Numbers"><img src="https://knowthecode.io/wp-content/uploads/2016/10/CS_0100_Understanding_How_a_Computer_Works__1__key10.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Smallest String With A Given Numeric Value</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Smallest%20String%20With%20A%20Given%20Numeric%20Value"><img src="https://www.wdkx.com/wp-content/uploads/2019/10/abc-alphabet-art-1337382.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Vertical Order Traversal of a Binary Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Smallest%20String%20With%20A%20Given%20Numeric%20Value"><img src="https://www.prodevelopertutorial.com/wp-content/uploads/2020/03/25_vertical_order_traversal-min.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Minimize Deviation in Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Smallest%20String%20With%20A%20Given%20Numeric%20Value"><img src="https://t4.ftcdn.net/jpg/00/32/82/15/500_F_32821548_AIIrmPk4G8pkVH6ImIisMPizS9ppR7PR.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
